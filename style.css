@@ -7,16 +7,17 @@ html, body {
 /* Global styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #acacac; /* Change this to your desired background color */
+    background-color: #ff8a8a; /* Change this to your desired background color */
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #eaeaea; /* Change this to your desired container background color */
+    background-color: #ffd0d0; /* Change this to your desired container background color */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow to the container */
     border-radius: 10px; /* Adjust the value to control the roundness of the corners */
+    align-content: center;
 }
 
 h1, h2 {
@@ -30,7 +31,7 @@ p {
 }
 
 a {
-    color: #007bff; /* Change this to your desired link color */
+    color: #ff00ea; /* Change this to your desired link color */
 }
 
 /* Profile picture style */
